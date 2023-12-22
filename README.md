@@ -22,7 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 Projeto desenvolvido para criar um site portfólio. <br> <br>
-Para acessar o projeto clique [AQUI]()
+Para acessar o projeto clique [AQUI](https://portfolio-react-dnc-livid.vercel.app/)
 
 ## 🔖 Layout
 
