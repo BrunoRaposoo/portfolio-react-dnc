@@ -1,0 +1,31 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 1em;
+  margin-bottom: 85px;
+  margin-left: 3%;
+  margin-right: 3%;
+  margin-top: 1%;
+}
+
+.navbar ul {
+  display: flex;
+  list-style: none;
+  align-items: center;
+  gap: 28px;
+
+  margin-right: 3%;
+}
+
+.navbar li {
+  font-size: 20px;
+}
+
+.navbar li:hover {
+  transform: scale(1.1);
+  transition-duration: 200ms;
+}
+
+.navbar a {
+  color: #FFF !important;
+}

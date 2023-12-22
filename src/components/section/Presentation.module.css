@@ -1,0 +1,19 @@
+.presentation {
+  text-align: left;
+  margin-left: 5%;
+  margin-bottom: 80px;
+}
+
+.presentation p {
+  font-size: 29px;
+}
+
+.presentation h1 {
+  font-size: 78px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.btn {
+  margin-top: 30px;
+}

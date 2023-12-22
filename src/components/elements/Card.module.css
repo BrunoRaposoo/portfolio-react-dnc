@@ -1,0 +1,45 @@
+.card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 53px;
+  margin: 45px;
+}
+
+.card img {
+  border-radius: 15px;
+  cursor: pointer;
+}
+
+.card img:hover {
+  transform: scale(1.05);
+  transition-duration: 500ms;
+}
+
+.description {
+  padding-left: 34px;
+  width: 551px;
+  height: 281px;
+  border-radius: 15px;
+  background-color: #01091cea;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.description h1 {
+  font-size: 32px;
+  margin: 0;
+  line-height: 48px;
+}
+
+.description p {
+  width: 90%;
+  font-size: 20px;
+  line-height: 40px;
+}
+
+.btn {
+  margin-top: 12px;
+}

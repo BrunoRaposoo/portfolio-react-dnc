@@ -1,0 +1,25 @@
+.footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 50px;
+  margin-left: 5%;
+}
+
+.footer ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+  gap: 45px;
+}
+
+.footer a {
+  color: #FFF !important;
+  text-decoration: none;
+}
+
+.footer p {
+  margin-bottom: 25px;
+  font-size: 20px;
+}

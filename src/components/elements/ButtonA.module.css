@@ -1,0 +1,18 @@
+.btnA {
+  background-color: #74FAC0;
+  color: #01091C;
+  border: none;
+  border-radius: 15px;
+  width: 437px;
+  height: 74px;
+  margin-left: 10px;
+  font-size: 29px;
+  font-weight: 700;
+  cursor: pointer;
+  margin-top: 29px;
+}
+
+.btnA:hover {
+  filter: brightness(1.2);
+  transition-duration: 200ms;
+}
