@@ -9,6 +9,7 @@
 .card img {
   border-radius: 15px;
   cursor: pointer;
+  transition-duration: 500ms;
 }
 
 .card img:hover {

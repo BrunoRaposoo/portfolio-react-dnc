@@ -29,7 +29,11 @@
   gap: 68px;
 }
 
+.imagesSkill img {
+  transition-duration: 200ms;
+}
+
 .imagesSkill img:hover {
-  transform: scale(1.1);
+  transform: scale(1.2);
   transition-duration: 200ms;
 }
